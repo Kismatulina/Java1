@@ -18,6 +18,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        //Scanner scanner = new Scanner(System.in, "cp866");
         String s = scanner.next();
 
         LocalDateTime dateTime = LocalDateTime.now();

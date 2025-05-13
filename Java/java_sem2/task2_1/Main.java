@@ -1,4 +1,7 @@
 package task2_1;
+/**Задание №2
+📌 Напишите метод, который сжимает строку.
+📌 Пример: вход aaaabbbcdd. */
 
 import java.util.Scanner;
 import java.util.logging.Logger;

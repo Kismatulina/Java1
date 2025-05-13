@@ -167,4 +167,16 @@ public class Main {
         }
         return filteredSet;
     }
-}    
+} 
+/**результат: Введите цифру соответствующую критерию фильтрации:
+1 - ОЗУ
+2 - Объем ЖД
+3 - Операционная система
+4 - Цвет
+
+Введите значение для выбранного критерия:
+1000
+Отфильтрованные ноутбуки:
+Notebook{brand='Lenovo', ram=16, hddSize=1000, os='3', color='Black'}
+Notebook{brand='Apple', ram=8, hddSize=1000, os='macOS', color='Gray'}
+ */   
